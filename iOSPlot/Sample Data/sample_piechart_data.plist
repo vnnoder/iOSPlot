@@ -6,33 +6,33 @@
 	<array>
 		<dict>
 			<key>title</key>
-			<string>AAA</string>
-			<key>value</key>
-			<integer>12</integer>
-		</dict>
-		<dict>
-			<key>title</key>
-			<string>BBB</string>
-			<key>value</key>
-			<integer>30</integer>
-		</dict>
-		<dict>
-			<key>title</key>
-			<string>CCC</string>
-			<key>value</key>
-			<integer>10</integer>
-		</dict>
-		<dict>
-			<key>title</key>
-			<string>DDD</string>
-			<key>value</key>
-			<integer>30</integer>
-		</dict>
-		<dict>
-			<key>title</key>
-			<string>EEE</string>
+			<string>Android</string>
 			<key>value</key>
 			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>iPhone</string>
+			<key>value</key>
+			<integer>25</integer>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>BlackBerry</string>
+			<key>value</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Windows Phone</string>
+			<key>value</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Other</string>
+			<key>value</key>
+			<integer>5</integer>
 		</dict>
 	</array>
 </dict>
